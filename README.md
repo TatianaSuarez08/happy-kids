@@ -1,6 +1,6 @@
 # happy-kids
 ## componente metologico
-###_plantamiento del problema
+### _plantamiento del problema
 
 :blush: La tienda de  sudaderas para niños happy kids  maneja inventarios y ventas de forma manual , lo que causa errores y demora en la atención al cliente  ya que afecta las ventas en  el inventario no se tiene el control de los productos que se vende y se almacenan debido a  las actividades que se realizan aquí, se desarrollan de forma manual , permitiendo que halla errores en la verificación y validación de la mercancía. Esta afecta tanto como a los clientes como a la organización. Por eso se necesita un sistema de información que haga todo mas rápido y ordenado .
 
@@ -19,5 +19,5 @@ Proteger la información del sistema mediante la gestión de usuarios y contrase
 Gestionar en el sistema la información relacionada con los productos, categorías, precios y existencias del inventario 
 Desarrollar una interfaz grafica amigable que se adapte 
 
-## _alcanze_
+## _alcance_
 El sistemas para la tienda Happy kids tendrá como funciones principales el control del inventario, el registro de ventas, la generación de reportes y la validación de datos para evitar errores. Sera utilizado principalmente por el administrador, encargado de la gestión general, y los vendedores, responsables de registrar ventas y consultar productos. En su primera versión contara con módulos de inventario, ventas, reportes y usuarios, permitiendo un manejo mas rápido, organizado y confiable de la información
