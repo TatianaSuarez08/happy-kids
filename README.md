@@ -10,7 +10,7 @@ La implementación de un sistema de información se justifica porque la tienda n
 ### __pregunta del proyecto__
 ¿Qué tipo de sistema en línea puede desarrollar Happy Kids para agilizar la gestión de productos y mejorar la experiencia del usuario?
 
-## _ objetivos general_
+## _objetivos general_
 Implementar un sistema de información en la tienda Happy Kids que permita gestionar de forma eficiente las ventas y el control de inventarios, garantizando un manejo ordenado y confiable de la información, así como una mejor atención al cliente
 
 ## _objetivos especificos_
