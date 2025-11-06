@@ -1,6 +1,8 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/02de8e21-7cab-4cd6-8512-1cdd311ddd28" />
 # happy-kids
+
 ## componente metologico
+
 ### _plantamiento del problema_
 
 :blush: La tienda de  sudaderas para niños happy kids  maneja inventarios y ventas de forma manual , lo que causa errores y demora en la atención al cliente  ya que afecta las ventas en  el inventario no se tiene el control de los productos que se vende y se almacenan debido a  las actividades que se realizan aquí, se desarrollan de forma manual , permitiendo que halla errores en la verificación y validación de la mercancía. Esta afecta tanto como a los clientes como a la organización. Por eso se necesita un sistema de información que haga todo mas rápido y ordenado.
