@@ -40,6 +40,7 @@ Desarrollar módulos para control de ventas, gestión de inventario y generació
 El sistema de información para Happy Kids cubrirá gestión de inventario, registro de ventas, generación de reportes y validación de datos. Dirigido a administradores (gestión total) y vendedores (registrar ventas, consultar productos). La primera versión incluirá módulos de inventario, ventas, reportes y usuarios, optimizando procesos y garantizando información ágil e íntegra.
 
 ##_estadistcas descriptivas_
+
 -1.¿Qué diferencia a Happy Kids de otras tiendas de ropa para niños?
 Nos diferenciamos porque fabricamos sudaderas con nuevas tendencias en moda infantil, combinando diseño, comodidad y calidad
 
