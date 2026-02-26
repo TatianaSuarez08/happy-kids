@@ -33,14 +33,43 @@ Diseñar e implementar un sistema de información para  happy kids, que gestione
 Desarrollar módulos para control de ventas, gestión de inventario y generación de reportes.
 -Crear una base de datos segura para productos, clientes y transacciones.
 -Implementar seguridad con perfiles de usuario y autenticación protegida.
- -Administrar datos de productos: categorías, precios, existencias y movimientos.
- -Construir una interfaz intuitiva y adaptable a distintos dispositivos
+-Administrar datos de productos: categorías, precios, existencias y movimientos.
+-Construir una interfaz intuitiva y adaptable a distintos dispositivos
+
+## _alcance_
+El sistema de información para Happy Kids cubrirá gestión de inventario, registro de ventas, generación de reportes y validación de datos. Dirigido a administradores (gestión total) y vendedores (registrar ventas, consultar productos). La primera versión incluirá módulos de inventario, ventas, reportes y usuarios, optimizando procesos y garantizando información ágil e íntegra.
+
+#$_estadistcas descriptivas_
+-1.¿Qué diferencia a Happy Kids de otras tiendas de ropa para niños?
+Nos diferenciamos porque fabricamos sudaderas con nuevas tendencias en moda infantil, combinando diseño, comodidad y calidad
+-2. ¿Para qué tipo de clientes está pensada la marca?
+La marca está pensada para niños de todas las edades, ofreciendo prendas accesibles y adecuadas para diferentes necesidades.
+-3. ¿Qué comentarios o necesidades expresan los padres al comprar?
+Los padres buscan principalmente que las prendas sean cómodas, resistentes y de buena calidad para sus hijos.
+-4. ¿Qué estrategias utilizan para atraer nuevos clientes?
+Desarrollamos diseños innovadores que se adaptan a distintos climas y estilos, manteniéndonos actualizados con las tendencias.
+-5. ¿Qué buscan garantizar en cada compra?
+Garantizamos prendas de alta calidad a precios económicos, asegurando satisfacción y confianza en nuestros clientes.
+
+
+
+
+
+<img width="1766" height="138" alt="image" src="https://github.com/user-attachments/assets/8a257387-dc22-43f1-b1fe-f53479e04fbf" />
+
 
 
 
 ° Gestionar en el sistema la información relacionada con los productos, categorías, precios y existencias del inventario. 
 
 ° Desarrollar una interfaz grafica amigable que se adapte. 
+
+
+
+
+
+
+
 
 
 ## _alcance_
