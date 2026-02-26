@@ -57,25 +57,3 @@ Desarrollamos diseños innovadores que se adaptan a distintos climas y estilos, 
 Garantizamos prendas de alta calidad a precios económicos, asegurando satisfacción y confianza en nuestros clientes.
 
 
-
-
-
-<img width="1766" height="138" alt="image" src="https://github.com/user-attachments/assets/8a257387-dc22-43f1-b1fe-f53479e04fbf" />
-
-
-
-
-° Gestionar en el sistema la información relacionada con los productos, categorías, precios y existencias del inventario. 
-
-° Desarrollar una interfaz grafica amigable que se adapte. 
-
-
-
-
-
-
-
-
-
-## _alcance_
-El sistemas para la tienda Happy kids tendrá como funciones principales el control del inventario, el registro de ventas, la generación de reportes y la validación de datos para evitar errores. Sera utilizado principalmente por el administrador, encargado de la gestión general, y los vendedores, responsables de registrar ventas y consultar productos. En su primera versión contara con módulos de inventario, ventas, reportes y usuarios, permitiendo un manejo mas rápido, organizado y confiable de la información.
