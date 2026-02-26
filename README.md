@@ -6,23 +6,37 @@
 
 ### _plantamiento del problema_
 
-:blush: La tienda de  sudaderas para niños happy kids  maneja inventarios y ventas de forma manual , lo que causa errores y demora en la atención al cliente  ya que afecta las ventas en  el inventario no se tiene el control de los productos que se vende y se almacenan debido a  las actividades que se realizan aquí, se desarrollan de forma manual , permitiendo que halla errores en la verificación y validación de la mercancía. Esta afecta tanto como a los clientes como a la organización. Por eso se necesita un sistema de información que haga todo mas rápido y ordenado.
+:blush:La tienda de sudaderas infantiles Happy Kids maneja sus procesos de inventario y ventas de forma manual. Esta modalidad genera errores en el control de productos (tanto en venta como en almacenamiento), además de demoras en la atención al cliente, ya que las actividades de verificación y validación de mercancía se realizan sin apoyo tecnológico. Estos inconvenientes afectan negativamente tanto a los clientes como a la organización. Por ello, se requiere implementar un sistema de información que agilice los procesos y ordene la gestión de datos.
+
 
 ## _justificacion_
-La implementación de un sistema de información se justifica porque la tienda necesita una forma más organizada y moderna de trabajar. Con este sistema será posible llevar un mejor control del inventario, saber con precisión qué tallas y colores hay disponibles, evitar errores en los pedidos y hacer que las ventas sean más rápidas y seguras. Además, permitirá atender a los clientes con mayor agilidad, dándoles información clara y confiable, lo que aumentará su confianza y satisfacción. Al mismo tiempo, el negocio podrá ahorrar tiempo, reducir complicaciones y crecer de manera más ordenada, asegurando un servicio de calidad y una mejor administración en general.
+La implementación de un sistema de información es fundamental para modernizar y organizar las operaciones de Happy Kids. Este permitirá:
+-Mejorar el control de inventario, con conocimiento preciso de tallas, colores y existencias disponibles.
+-Reducir errores en el registro de pedidos y agilizar el proceso de ventas
+-Mejorar la atención al cliente al brindar información clara y confiable, aumentando su satisfacción y confianza en la marca.
+
+Con ello, el negocio optimizará su tiempo, fortalecerá su administración y logrará un crecimiento ordenado y eficiente.
+
+
 
 ### _pregunta del proyecto_
-¿Qué tipo de sistema en línea puede desarrollar Happy Kids para agilizar la gestión de productos y mejorar la experiencia del usuario?
+¿Cómo puede mejorar un sistema web de comercio electrónico e inventario los procesos de venta, la administración operativa
+y la experiencia del cliente en Happy Kids?
+
+
 
 ## _objetivos general_
-Implementar un sistema de información en la tienda Happy Kids que permita gestionar de forma eficiente las ventas y el control de inventarios, garantizando un manejo ordenado y confiable de la información, así como una mejor atención al cliente.
+Diseñar e implementar un sistema de información para  happy kids, que gestione eficientemente ventas como físicas y en línea , control de inventario en tiempo real, garantizar un manejo seguro y confiable de información, optimice procesos operativos y mejore la atención dl cliente
+
 
 ## _objetivos especificos_
-° Desarrollar módulos funcionales del sistema que gestionen el inventario, el control de ventas y la generación automática de reportes.
+Desarrollar módulos para control de ventas, gestión de inventario y generación de reportes.
+-Crear una base de datos segura para productos, clientes y transacciones.
+-Implementar seguridad con perfiles de usuario y autenticación protegida.
+ -Administrar datos de productos: categorías, precios, existencias y movimientos.
+ -Construir una interfaz intuitiva y adaptable a distintos dispositivos
 
-° Implementar una base de datos que almacene de manera segura la información de productos, clientes y transacciones.
 
-° Proteger la información del sistema mediante la gestión de usuarios y contraseñas seguras.
 
 ° Gestionar en el sistema la información relacionada con los productos, categorías, precios y existencias del inventario. 
 
